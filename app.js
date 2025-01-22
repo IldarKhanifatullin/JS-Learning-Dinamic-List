@@ -22,7 +22,7 @@ const listEl = document.getElementById('list');
 // const notes = ['something1', 'something2', 'something3', 'something4', 'something5']; // Стандартный массив.
 // Может внутри себя содержать и объекты. Перепишем этот массив по-другому в файлe "object.js"
 
-console.log(inputTextEl.value);
+// console.log(inputTextEl.value);
 
 // function render() {
 
